@@ -19,8 +19,26 @@
                 <div id="thumbs" class="owl-carousel owl-theme">
                     <div class="tabs-item">
                         <a href="#">
-                            <i class="flaticon-agriculture"></i>
-                            <span>Agricultural loan</span>
+                            <i class="flaticon-personal"></i>
+                            <span>Personal loan</span>
+                        </a>
+                    </div>
+                    <div class="tabs-item">
+                        <a href="#">
+                            <i class="flaticon-loan-1"></i>
+                            <span>Business loan</span>
+                        </a>
+                    </div>
+                    <div class="tabs-item">
+                        <a href="#">
+                            <i class="flaticon-scholarship"></i>
+                            <span>Car loan</span>
+                        </a>
+                    </div>
+                    <div class="tabs-item">
+                        <a href="#">
+                            <i class="flaticon-loan-2"></i>
+                            <span>House loan</span>
                         </a>
                     </div>
                     <div class="tabs-item">
@@ -35,66 +53,9 @@
                             <span>Business loan</span>
                         </a>
                     </div>
-                    <div class="tabs-item">
-                        <a href="#">
-                            <i class="flaticon-scholarship"></i>
-                            <span>Education loan</span>
-                        </a>
-                    </div>
-                    <div class="tabs-item">
-                        <a href="#">
-                            <i class="flaticon-loan-2"></i>
-                            <span>House loan</span>
-                        </a>
-                    </div>
-                    <div class="tabs-item">
-                        <a href="#">
-                            <i class="flaticon-loan-3"></i>
-                            <span>Payday loan</span>
-                        </a>
-                    </div>
-                    <div class="tabs-item">
-                        <a href="#">
-                            <i class="flaticon-agriculture"></i>
-                            <span>Agricultural loan</span>
-                        </a>
-                    </div>
+                   
                 </div>
                 <div id="best-services" class="owl-carousel owl-theme">
-                    <div class="services-tabs-item">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="services-tab-image">
-                                    <img src="assets/img/services-tab.png" alt="image">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>Agricultural loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for Agricultural loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="services-tab-content left">
-                                    <h3>Agricultural loan guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                     <div class="services-tabs-item">
                         <div class="row align-items-center">
                             <div class="col-lg-6">
@@ -172,7 +133,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="services-tab-content">
-                                    <h3>Education loan</h3>
+                                    <h3>Car Loan</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                         incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
                                         gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
@@ -240,7 +201,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="services-tab-content">
-                                    <h3>Payday loan</h3>
+                                    <h3>Personal loan</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                         incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
                                         gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
@@ -253,12 +214,12 @@
                                     <li>Business cash advances</li>
                                 </ul>
                                 <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for Payday loan</h3>
+                                    <h3>Eligibility and criteria for Personal loan</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                         incididunt ut labore et dolore magna aliqua.</p>
                                 </div>
                                 <div class="services-tab-content left">
-                                    <h3>Payday loan guide</h3>
+                                    <h3>Personal loan guide</h3>
                                     <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
                                         lacus vel facilisis.</p>
                                 </div>
@@ -274,7 +235,7 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="services-tab-content">
-                                    <h3>Agricultural loan</h3>
+                                    <h3>Business loans</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                         incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
                                         gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
@@ -287,12 +248,12 @@
                                     <li>Business cash advances</li>
                                 </ul>
                                 <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for Agricultural loan</h3>
+                                    <h3>Eligibility and criteria for business loans</h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                         incididunt ut labore et dolore magna aliqua.</p>
                                 </div>
                                 <div class="services-tab-content left">
-                                    <h3>Agricultural loan guide</h3>
+                                    <h3>Business loans guide</h3>
                                     <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
                                         lacus vel facilisis.</p>
                                 </div>
@@ -303,54 +264,6 @@
             </div>           
         </div>
     </div>
-
-
-    <section class="about-area ptb-100">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="about-wrap">
-                        <img src="assets/img/about/image3.png" alt="image">
-                        <div class="about-shape">
-                            <div class="text">
-                                <h3>25</h3>
-                                <span>Years Of Experience</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="about-content">
-                        <span>About company</span>
-                        <h3>We have been working very efficiently with loan and funding for 25 years.</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
-                        <strong>In business, we focus on 3 things.</strong>
-                        <ul class="about-list">
-                            <li>
-                                <i class="flaticon-check"></i>
-                                Useful info
-                            </li>
-                            <li>
-                                <i class="flaticon-check"></i>
-                                Reliability
-                            </li>
-                            <li>
-                                <i class="flaticon-check"></i>
-                                Innovation
-                            </li>
-                        </ul>
-                        <div class="about-btn">
-                            <a href="apply-now.html" class="default-btn">
-                                View more
-                                <span></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
 
     <section class="choose-area pt-100 pb-70">
@@ -528,7 +441,7 @@
                         <div class="solution-info">
                             <i class="flaticon-telephone"></i>
                             <h3>
-                                <a href="tel:15143125678">+1 (514) 312-5678</a>
+                                <a href="tel:<?php echo $phone1; ?>"><?php echo $phone; ?></a>
                             </h3>
                         </div>
                     </div>

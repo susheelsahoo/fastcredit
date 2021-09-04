@@ -1,5 +1,12 @@
 <!doctype html>
 <html lang="en">
+<?php
+$email = 'info@fastcreditdeal.com';
+$phone = '0120-4523131';
+$phone1 = '01204523131';
+$address = 'A- 81, 2nd Floor, Sector 4, Noida Pincode 201301';
+
+?>
 
 
 <head>
@@ -41,7 +48,7 @@
             <div class="container">
                 <div class="main-responsive-menu">
                     <div class="logo">
-                        <a href="index-2.html">
+                        <a href="index.php">
                             <img src="assets/img/logo.png" alt="image">
                         </a>
                     </div>
@@ -51,7 +58,7 @@
         <div class="main-navbar">
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-md navbar-light">
-                    <a class="navbar-brand" href="index-2.html">
+                    <a class="navbar-brand" href="index.php">
                         <img src="assets/img/logo.png" alt="image">
                     </a>
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -95,7 +102,7 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a href="funding.html" class="nav-link">
+                                <a href="funding.php" class="nav-link">
                                     Funding
                                 </a>
                             </li>
@@ -117,7 +124,7 @@
                                     <i class="flaticon-telephone"></i>
                                     <span>Call Now</span>
                                     <p>
-                                        <a href="tel:1514312-5678">+1 (514) 312-5678</a>
+                                        <a href="tel:<?php echo $phone1; ?>"><?php echo $phone; ?></a>
                                     </p>
                                 </div>
                             </div>

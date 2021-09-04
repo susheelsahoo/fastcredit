@@ -88,12 +88,8 @@
                             <h4>Working Hours</h4>
                             <ul class="list">
                                 <li>
-                                    Mon – Thurs
-                                    <span>8:00 AM - 5:00 PM</span>
-                                </li>
-                                <li>
-                                    Fri – Satur
-                                    <span>8:00 AM - 3:00 PM</span>
+                                    Mon – Sat
+                                    <span>10:00 AM - 07:00 PM</span>
                                 </li>
                                 <li>
                                     Sun
@@ -106,7 +102,7 @@
                                 <i class="flaticon-pin"></i>
                             </div>
                             <h4>Address</h4>
-                            <span>6890 Blvd, The Bronx, NY 1058 New <br> York, USA</span>
+                            <span><?php echo $address; ?></span>
                         </div>
                         <div class="info-box">
                             <div class="icon">
@@ -114,11 +110,9 @@
                             </div>
                             <h4>Phone</h4>
                             <span>
-                                <a href="tel:1514312-6688">+1 (514) 312-5678</a>
+                                <a href="tel:<?php echo $phone1; ?>"><?php echo $phone; ?></a>
                             </span>
-                            <span>
-                                <a href="tel:1514312-6688">+1 (514) 312-6688</a>
-                            </span>
+                            
                         </div>
                         <div class="info-box">
                             <div class="icon">
@@ -126,13 +120,7 @@
                             </div>
                             <h4>Email</h4>
                             <span>
-                                <a
-                                    href="https://templates.envytheme.com/cdn-cgi/l/email-protection#4a222f2626250a2c2324233264292527"><span
-                                        class="__cf_email__"
-                                        data-cfemail="0c64696060634c6a65626574226f6361">[email&#160;protected]</span></a>
-                            </span>
-                            <span>
-                                <a href="#">skype: example</a>
+                                <a href="mail:<?php echo $email; ?>"><?php echo $email; ?></a>
                             </span>
                         </div>
                     </div>
@@ -144,8 +132,8 @@
 
     <div class="map">
         <div class="container-fluid">
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.15830869428!2d-74.11976397304603!3d40.69766374874431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1594738801148!5m2!1sen!2sbd"></iframe>
+            <iframe 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.57838282121!2d77.32272131440598!3d28.582420693099525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce456c9349565%3A0xac977c6238a3900!2sA%20Block!5e0!3m2!1sen!2sin!4v1630778803602!5m2!1sen!2sin" loading="lazy"></iframe>
         </div>
     </div>
 

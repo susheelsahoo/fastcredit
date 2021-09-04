@@ -8,8 +8,7 @@
                                 <img src="assets/img/logo2.png" alt="image">
                             </a>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
+                        <p>Attaining financial freedom means getting the power to achieve your envisioned financial goals and make decisions without any financial constraints.</p>
                         <ul class="social">
                             <li>
                                 <b>Follow us:</b>
@@ -42,41 +41,36 @@
                         <h3>Quick Links</h3>
                         <ul class="quick-links">
                             <li>
-                                <a href="about.html">About</a>
+                                <a href="about.php">About</a>
                             </li>
                             <li>
-                                <a href="#">Our Performance</a>
+                                <a href="privacy-policy.php">Privacy Policy</a>
                             </li>
                             <li>
-                                <a href="faq.html">Help (FAQ)</a>
+                                <a href="terms-condition.php">Terms of Service</a>
                             </li>
                             <li>
-                                <a href="news.html">Blog</a>
-                            </li>
-                            <li>
-                                <a href="contact.html">Contact</a>
+                                <a href="contact.php">Contact</a>
                             </li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="single-footer-widget">
-                        <h3>Other Resources</h3>
+                        <h3>Our Services</h3>
                         <ul class="quick-links">
                             <li>
-                                <a href="#">Support</a>
+                                <a href="home-loan.php">Home Loan</a>
                             </li>
                             <li>
-                                <a href="privacy-policy.html">Privacy Policy</a>
+                                <a href="personal-loan.php">Personal Loan</a>
+                            </li>
+                            
+                            <li>
+                                <a href="business-loan.php">Business Loans</a>
                             </li>
                             <li>
-                                <a href="terms-condition.html">Terms of Service</a>
-                            </li>
-                            <li>
-                                <a href="#">Business Loans</a>
-                            </li>
-                            <li>
-                                <a href="#">Loan Services</a>
+                                <a href="car-loan.php">Car Loan</a>
                             </li>
                         </ul>
                     </div>
@@ -86,27 +80,18 @@
                         <h3>Contact Us</h3>
                         <div class="info-contact">
                             <i class="flaticon-pin"></i>
-                            <span>6890 Blvd, The Bronx, NY 1058 New York, USA</span>
+                            <span><?php echo $address; ?></span>
                         </div>
                         <div class="info-contact">
                             <i class="flaticon-mail"></i>
                             <span>
-                                <a
-                                    href="https://templates.envytheme.com/cdn-cgi/l/email-protection#325a575e5e5d72545b5c5b4a1c515d5f"><span
-                                        class="__cf_email__"
-                                        data-cfemail="5a323f3636351a3c3334332274393537">[email&#160;protected]</span></a>
-                            </span>
-                            <span>
-                                <a href="#">skype: example</a>
+                                <a href="mail:<?php echo $email; ?>"><?php echo $email; ?></a>
                             </span>
                         </div>
                         <div class="info-contact">
                             <i class="flaticon-telephone"></i>
                             <span>
-                                <a href="tel:1514312-6688">+1 (514) 312-5678</a>
-                            </span>
-                            <span>
-                                <a href="tel:1514312-6688">+1 (514) 312-6688</a>
+                                <a href="tel:<?php echo $phone1; ?>"><?php echo $phone; ?></a>
                             </span>
                         </div>
                     </div>

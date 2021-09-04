@@ -355,7 +355,7 @@
                         <div class="solution-info">
                             <i class="flaticon-telephone"></i>
                             <h3>
-                                <a href="tel:15143125678">+1 (514) 312-5678</a>
+                                <a href="tel:<?php echo $phone1; ?>"><?php echo $phone; ?></a>
                             </h3>
                         </div>
                     </div>
