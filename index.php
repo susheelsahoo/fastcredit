@@ -15,23 +15,292 @@
 
     <div class="partner-area bg-color ptb-30">
         <div class="container">
-            <div class="partner-slider owl-carousel owl-theme">
-                <div class="partner-item">
-                    <img src="assets/img/partner/image1.png" alt="image">
+        <div class="best-services-slider">
+                <div id="thumbs" class="owl-carousel owl-theme">
+                    <div class="tabs-item">
+                        <a href="#">
+                            <i class="flaticon-agriculture"></i>
+                            <span>Agricultural loan</span>
+                        </a>
+                    </div>
+                    <div class="tabs-item">
+                        <a href="#">
+                            <i class="flaticon-personal"></i>
+                            <span>Personal loan</span>
+                        </a>
+                    </div>
+                    <div class="tabs-item">
+                        <a href="#">
+                            <i class="flaticon-loan-1"></i>
+                            <span>Business loan</span>
+                        </a>
+                    </div>
+                    <div class="tabs-item">
+                        <a href="#">
+                            <i class="flaticon-scholarship"></i>
+                            <span>Education loan</span>
+                        </a>
+                    </div>
+                    <div class="tabs-item">
+                        <a href="#">
+                            <i class="flaticon-loan-2"></i>
+                            <span>House loan</span>
+                        </a>
+                    </div>
+                    <div class="tabs-item">
+                        <a href="#">
+                            <i class="flaticon-loan-3"></i>
+                            <span>Payday loan</span>
+                        </a>
+                    </div>
+                    <div class="tabs-item">
+                        <a href="#">
+                            <i class="flaticon-agriculture"></i>
+                            <span>Agricultural loan</span>
+                        </a>
+                    </div>
                 </div>
-                <div class="partner-item">
-                    <img src="assets/img/partner/image2.png" alt="image">
+                <div id="best-services" class="owl-carousel owl-theme">
+                    <div class="services-tabs-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="services-tab-image">
+                                    <img src="assets/img/services-tab.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="services-tab-content">
+                                    <h3>Agricultural loan</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
+                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                </div>
+                                <ul class="list">
+                                    <h3>Types of business loan</h3>
+                                    <li>Secured loans</li>
+                                    <li>Unsecured loans</li>
+                                    <li>Revolving credit facilities</li>
+                                    <li>Business cash advances</li>
+                                </ul>
+                                <div class="services-tab-content">
+                                    <h3>Eligibility and criteria for Agricultural loan</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua.</p>
+                                </div>
+                                <div class="services-tab-content left">
+                                    <h3>Agricultural loan guide</h3>
+                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
+                                        lacus vel facilisis.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="services-tabs-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="services-tab-image">
+                                    <img src="assets/img/services-tab.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="services-tab-content">
+                                    <h3>Personal loan</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
+                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                </div>
+                                <ul class="list">
+                                    <h3>Types of business loan</h3>
+                                    <li>Secured loans</li>
+                                    <li>Unsecured loans</li>
+                                    <li>Revolving credit facilities</li>
+                                    <li>Business cash advances</li>
+                                </ul>
+                                <div class="services-tab-content">
+                                    <h3>Eligibility and criteria for Personal loan</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua.</p>
+                                </div>
+                                <div class="services-tab-content left">
+                                    <h3>Personal loan guide</h3>
+                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
+                                        lacus vel facilisis.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="services-tabs-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="services-tab-image">
+                                    <img src="assets/img/services-tab.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="services-tab-content">
+                                    <h3>Business loans</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
+                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                </div>
+                                <ul class="list">
+                                    <h3>Types of business loan</h3>
+                                    <li>Secured loans</li>
+                                    <li>Unsecured loans</li>
+                                    <li>Revolving credit facilities</li>
+                                    <li>Business cash advances</li>
+                                </ul>
+                                <div class="services-tab-content">
+                                    <h3>Eligibility and criteria for business loans</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua.</p>
+                                </div>
+                                <div class="services-tab-content left">
+                                    <h3>Business loans guide</h3>
+                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
+                                        lacus vel facilisis.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="services-tabs-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="services-tab-image">
+                                    <img src="assets/img/services-tab.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="services-tab-content">
+                                    <h3>Education loan</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
+                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                </div>
+                                <ul class="list">
+                                    <h3>Types of business loan</h3>
+                                    <li>Secured loans</li>
+                                    <li>Unsecured loans</li>
+                                    <li>Revolving credit facilities</li>
+                                    <li>Business cash advances</li>
+                                </ul>
+                                <div class="services-tab-content">
+                                    <h3>Eligibility and criteria for Education loan</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua.</p>
+                                </div>
+                                <div class="services-tab-content left">
+                                    <h3>Education loan guide</h3>
+                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
+                                        lacus vel facilisis.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="services-tabs-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="services-tab-image">
+                                    <img src="assets/img/services-tab.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="services-tab-content">
+                                    <h3>House loan</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
+                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                </div>
+                                <ul class="list">
+                                    <h3>Types of business loan</h3>
+                                    <li>Secured loans</li>
+                                    <li>Unsecured loans</li>
+                                    <li>Revolving credit facilities</li>
+                                    <li>Business cash advances</li>
+                                </ul>
+                                <div class="services-tab-content">
+                                    <h3>Eligibility and criteria for House loan</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua.</p>
+                                </div>
+                                <div class="services-tab-content left">
+                                    <h3>House loan guide</h3>
+                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
+                                        lacus vel facilisis.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="services-tabs-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="services-tab-image">
+                                    <img src="assets/img/services-tab.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="services-tab-content">
+                                    <h3>Payday loan</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
+                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                </div>
+                                <ul class="list">
+                                    <h3>Types of business loan</h3>
+                                    <li>Secured loans</li>
+                                    <li>Unsecured loans</li>
+                                    <li>Revolving credit facilities</li>
+                                    <li>Business cash advances</li>
+                                </ul>
+                                <div class="services-tab-content">
+                                    <h3>Eligibility and criteria for Payday loan</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua.</p>
+                                </div>
+                                <div class="services-tab-content left">
+                                    <h3>Payday loan guide</h3>
+                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
+                                        lacus vel facilisis.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="services-tabs-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="services-tab-image">
+                                    <img src="assets/img/services-tab.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="services-tab-content">
+                                    <h3>Agricultural loan</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
+                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                </div>
+                                <ul class="list">
+                                    <h3>Types of business loan</h3>
+                                    <li>Secured loans</li>
+                                    <li>Unsecured loans</li>
+                                    <li>Revolving credit facilities</li>
+                                    <li>Business cash advances</li>
+                                </ul>
+                                <div class="services-tab-content">
+                                    <h3>Eligibility and criteria for Agricultural loan</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua.</p>
+                                </div>
+                                <div class="services-tab-content left">
+                                    <h3>Agricultural loan guide</h3>
+                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
+                                        lacus vel facilisis.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                <div class="partner-item">
-                    <img src="assets/img/partner/image3.png" alt="image">
-                </div>
-                <div class="partner-item">
-                    <img src="assets/img/partner/image4.png" alt="image">
-                </div>
-                <div class="partner-item">
-                    <img src="assets/img/partner/image5.png" alt="image">
-                </div>
-            </div>
+            </div>           
         </div>
     </div>
 
@@ -327,292 +596,7 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                     et dolore magna aliqua. </p>
             </div>
-            <div class="best-services-slider">
-                <div id="thumbs" class="owl-carousel owl-theme">
-                    <div class="tabs-item">
-                        <a href="#">
-                            <i class="flaticon-agriculture"></i>
-                            <span>Agricultural loan</span>
-                        </a>
-                    </div>
-                    <div class="tabs-item">
-                        <a href="#">
-                            <i class="flaticon-personal"></i>
-                            <span>Personal loan</span>
-                        </a>
-                    </div>
-                    <div class="tabs-item">
-                        <a href="#">
-                            <i class="flaticon-loan-1"></i>
-                            <span>Business loan</span>
-                        </a>
-                    </div>
-                    <div class="tabs-item">
-                        <a href="#">
-                            <i class="flaticon-scholarship"></i>
-                            <span>Education loan</span>
-                        </a>
-                    </div>
-                    <div class="tabs-item">
-                        <a href="#">
-                            <i class="flaticon-loan-2"></i>
-                            <span>House loan</span>
-                        </a>
-                    </div>
-                    <div class="tabs-item">
-                        <a href="#">
-                            <i class="flaticon-loan-3"></i>
-                            <span>Payday loan</span>
-                        </a>
-                    </div>
-                    <div class="tabs-item">
-                        <a href="#">
-                            <i class="flaticon-agriculture"></i>
-                            <span>Agricultural loan</span>
-                        </a>
-                    </div>
-                </div>
-                <div id="best-services" class="owl-carousel owl-theme">
-                    <div class="services-tabs-item">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="services-tab-image">
-                                    <img src="assets/img/services-tab.png" alt="image">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>Agricultural loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for Agricultural loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="services-tab-content left">
-                                    <h3>Agricultural loan guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="services-tabs-item">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="services-tab-image">
-                                    <img src="assets/img/services-tab.png" alt="image">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>Personal loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for Personal loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="services-tab-content left">
-                                    <h3>Personal loan guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="services-tabs-item">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="services-tab-image">
-                                    <img src="assets/img/services-tab.png" alt="image">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>Business loans</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for business loans</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="services-tab-content left">
-                                    <h3>Business loans guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="services-tabs-item">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="services-tab-image">
-                                    <img src="assets/img/services-tab.png" alt="image">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>Education loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for Education loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="services-tab-content left">
-                                    <h3>Education loan guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="services-tabs-item">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="services-tab-image">
-                                    <img src="assets/img/services-tab.png" alt="image">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>House loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for House loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="services-tab-content left">
-                                    <h3>House loan guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="services-tabs-item">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="services-tab-image">
-                                    <img src="assets/img/services-tab.png" alt="image">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>Payday loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for Payday loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="services-tab-content left">
-                                    <h3>Payday loan guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="services-tabs-item">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="services-tab-image">
-                                    <img src="assets/img/services-tab.png" alt="image">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>Agricultural loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for Agricultural loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="services-tab-content left">
-                                    <h3>Agricultural loan guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+           
         </div>
     </section>
 

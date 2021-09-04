@@ -73,15 +73,25 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="services.html" class="nav-link">
-                                            Services
+                                        <a href="home-loan.php" class="nav-link">
+                                            Home Loan
                                         </a>
-                                    </li>
+                                    </li>  
                                     <li class="nav-item">
-                                        <a href="services-details.html" class="nav-link">
-                                            Services Details
+                                        <a href="personal-loan.php" class="nav-link">
+                                            Personal Loan
                                         </a>
-                                    </li>
+                                    </li>  
+                                    <li class="nav-item">
+                                        <a href="business-loan.php" class="nav-link">
+                                            Business Loan
+                                        </a>
+                                    </li>  
+                                    <li class="nav-item">
+                                        <a href="car-loan.php" class="nav-link">
+                                            Car Loan
+                                        </a>
+                                    </li>                                    
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -90,7 +100,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a href="loans.html" class="nav-link">
+                                <a href="loans.php" class="nav-link">
                                     Loans
                                 </a>
                             </li>                        
@@ -112,7 +122,7 @@
                                 </div>
                             </div>
                             <div class="option-item">
-                                <a href="apply-now.html" class="default-btn">
+                                <a href="apply-now.php" class="default-btn">
                                     Apply now
                                     <span></span>
                                 </a>
