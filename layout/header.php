@@ -130,7 +130,7 @@ $address = 'A- 81, 2nd Floor, Sector 4, Noida Pincode 201301';
                             </div>
                             <div class="option-item">
                                 <a href="apply-now.php" class="default-btn">
-                                    Apply now
+                                    Sign In
                                     <span></span>
                                 </a>
                             </div>

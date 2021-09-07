@@ -44,13 +44,13 @@
                     <div class="tabs-item">
                         <a href="#">
                             <i class="flaticon-personal"></i>
-                            <span>Personal loan</span>
+                            <span>Credit Cards</span>
                         </a>
                     </div>
                     <div class="tabs-item">
                         <a href="#">
                             <i class="flaticon-loan-1"></i>
-                            <span>Business loan</span>
+                            <span>Education Loan</span>
                         </a>
                     </div>
                    
@@ -64,62 +64,50 @@
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>Personal loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for Personal loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="services-tab-content left">
-                                    <h3>Personal loan guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="services-tabs-item">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="services-tab-image">
-                                    <img src="assets/img/services-tab.png" alt="image">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>Business loans</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for business loans</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="services-tab-content left">
-                                    <h3>Business loans guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
+                                <div class="rate-form bg-fdebeb">
+                                    <div class="rate-content">
+                                        <span>Personal loan</span>
+                                        <h3>How much do you need?</h3>
+                                    </div>
+                                    <div class="form">
+                                        <div class="form-group">
+                                            <label>Type The Money</label>
+                                            <input type="text" class="form-control" placeholder="$1000">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Select The Month/Years</label>
+                                            <div class="select-box">
+                                                <select class="form-control">
+                                                    <option value="5">1 month</option>
+                                                    <option value="1">2 month</option>
+                                                    <option value="2">3 month</option>
+                                                    <option value="0">4 month</option>
+                                                    <option value="3">6 month</option>
+                                                    <option value="3">1 Year</option>
+                                                    <option value="0">2 Years</option>
+                                                    <option value="3">3 Years</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Borrowing</label>
+                                            <input type="text" class="form-control" placeholder="$10000">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Term of use</label>
+                                            <input type="text" class="form-control" placeholder="6 month">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>The total you will pay</label>
+                                            <input type="text" class="form-control" placeholder="$11200">
+                                        </div>
+                                        <div class="rate-btn">
+                                            <button type="submit" class="default-btn">
+                                                Apply for this loan
+                                                <span></span>
+                                            </button>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -132,62 +120,50 @@
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>Car Loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for Education loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="services-tab-content left">
-                                    <h3>Education loan guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="services-tabs-item">
-                        <div class="row align-items-center">
-                            <div class="col-lg-6">
-                                <div class="services-tab-image">
-                                    <img src="assets/img/services-tab.png" alt="image">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>House loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for House loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="services-tab-content left">
-                                    <h3>House loan guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
+                                <div class="rate-form bg-fdebeb">
+                                    <div class="rate-content">
+                                        <span>Business loan</span>
+                                        <h3>How much do you need?</h3>
+                                    </div>
+                                    <div class="form">
+                                        <div class="form-group">
+                                            <label>Type The Money</label>
+                                            <input type="text" class="form-control" placeholder="$1000">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Select The Month/Years</label>
+                                            <div class="select-box">
+                                                <select class="form-control">
+                                                    <option value="5">1 month</option>
+                                                    <option value="1">2 month</option>
+                                                    <option value="2">3 month</option>
+                                                    <option value="0">4 month</option>
+                                                    <option value="3">6 month</option>
+                                                    <option value="3">1 Year</option>
+                                                    <option value="0">2 Years</option>
+                                                    <option value="3">3 Years</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Borrowing</label>
+                                            <input type="text" class="form-control" placeholder="$10000">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Term of use</label>
+                                            <input type="text" class="form-control" placeholder="6 month">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>The total you will pay</label>
+                                            <input type="text" class="form-control" placeholder="$11200">
+                                        </div>
+                                        <div class="rate-btn">
+                                            <button type="submit" class="default-btn">
+                                                Apply for this loan
+                                                <span></span>
+                                            </button>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -200,28 +176,50 @@
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>Personal loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
-                                </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for Personal loan</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                                <div class="services-tab-content left">
-                                    <h3>Personal loan guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
+                                <div class="rate-form bg-fdebeb">
+                                    <div class="rate-content">
+                                        <span>Car loan</span>
+                                        <h3>How much do you need?</h3>
+                                    </div>
+                                    <div class="form">
+                                        <div class="form-group">
+                                            <label>Type The Money</label>
+                                            <input type="text" class="form-control" placeholder="$1000">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Select The Month/Years</label>
+                                            <div class="select-box">
+                                                <select class="form-control">
+                                                    <option value="5">1 month</option>
+                                                    <option value="1">2 month</option>
+                                                    <option value="2">3 month</option>
+                                                    <option value="0">4 month</option>
+                                                    <option value="3">6 month</option>
+                                                    <option value="3">1 Year</option>
+                                                    <option value="0">2 Years</option>
+                                                    <option value="3">3 Years</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Borrowing</label>
+                                            <input type="text" class="form-control" placeholder="$10000">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Term of use</label>
+                                            <input type="text" class="form-control" placeholder="6 month">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>The total you will pay</label>
+                                            <input type="text" class="form-control" placeholder="$11200">
+                                        </div>
+                                        <div class="rate-btn">
+                                            <button type="submit" class="default-btn">
+                                                Apply for this loan
+                                                <span></span>
+                                            </button>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -234,28 +232,162 @@
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <div class="services-tab-content">
-                                    <h3>Business loans</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                <div class="rate-form bg-fdebeb">
+                                    <div class="rate-content">
+                                        <span>Home loan</span>
+                                        <h3>How much do you need?</h3>
+                                    </div>
+                                    <div class="form">
+                                        <div class="form-group">
+                                            <label>Type The Money</label>
+                                            <input type="text" class="form-control" placeholder="$1000">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Select The Month/Years</label>
+                                            <div class="select-box">
+                                                <select class="form-control">
+                                                    <option value="5">1 month</option>
+                                                    <option value="1">2 month</option>
+                                                    <option value="2">3 month</option>
+                                                    <option value="0">4 month</option>
+                                                    <option value="3">6 month</option>
+                                                    <option value="3">1 Year</option>
+                                                    <option value="0">2 Years</option>
+                                                    <option value="3">3 Years</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Borrowing</label>
+                                            <input type="text" class="form-control" placeholder="$10000">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Term of use</label>
+                                            <input type="text" class="form-control" placeholder="6 month">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>The total you will pay</label>
+                                            <input type="text" class="form-control" placeholder="$11200">
+                                        </div>
+                                        <div class="rate-btn">
+                                            <button type="submit" class="default-btn">
+                                                Apply for this loan
+                                                <span></span>
+                                            </button>
+                                        </div>
+                                    </div>
                                 </div>
-                                <ul class="list">
-                                    <h3>Types of business loan</h3>
-                                    <li>Secured loans</li>
-                                    <li>Unsecured loans</li>
-                                    <li>Revolving credit facilities</li>
-                                    <li>Business cash advances</li>
-                                </ul>
-                                <div class="services-tab-content">
-                                    <h3>Eligibility and criteria for business loans</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="services-tabs-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="services-tab-image">
+                                    <img src="assets/img/services-tab.png" alt="image">
                                 </div>
-                                <div class="services-tab-content left">
-                                    <h3>Business loans guide</h3>
-                                    <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                        lacus vel facilisis.</p>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="rate-form bg-fdebeb">
+                                    <div class="rate-content">
+                                        <span>Credit Cards</span>
+                                        <h3>How much do you need?</h3>
+                                    </div>
+                                    <div class="form">
+                                        <div class="form-group">
+                                            <label>Type The Money</label>
+                                            <input type="text" class="form-control" placeholder="$1000">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Select The Month/Years</label>
+                                            <div class="select-box">
+                                                <select class="form-control">
+                                                    <option value="5">1 month</option>
+                                                    <option value="1">2 month</option>
+                                                    <option value="2">3 month</option>
+                                                    <option value="0">4 month</option>
+                                                    <option value="3">6 month</option>
+                                                    <option value="3">1 Year</option>
+                                                    <option value="0">2 Years</option>
+                                                    <option value="3">3 Years</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Borrowing</label>
+                                            <input type="text" class="form-control" placeholder="$10000">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Term of use</label>
+                                            <input type="text" class="form-control" placeholder="6 month">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>The total you will pay</label>
+                                            <input type="text" class="form-control" placeholder="$11200">
+                                        </div>
+                                        <div class="rate-btn">
+                                            <button type="submit" class="default-btn">
+                                                Apply for this loan
+                                                <span></span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="services-tabs-item">
+                        <div class="row align-items-center">
+                            <div class="col-lg-6">
+                                <div class="services-tab-image">
+                                    <img src="assets/img/services-tab.png" alt="image">
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="rate-form bg-fdebeb">
+                                    <div class="rate-content">
+                                        <span>Education Loan</span>
+                                        <h3>How much do you need?</h3>
+                                    </div>
+                                    <div class="form">
+                                        <div class="form-group">
+                                            <label>Type The Money</label>
+                                            <input type="text" class="form-control" placeholder="$1000">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Select The Month/Years</label>
+                                            <div class="select-box">
+                                                <select class="form-control">
+                                                    <option value="5">1 month</option>
+                                                    <option value="1">2 month</option>
+                                                    <option value="2">3 month</option>
+                                                    <option value="0">4 month</option>
+                                                    <option value="3">6 month</option>
+                                                    <option value="3">1 Year</option>
+                                                    <option value="0">2 Years</option>
+                                                    <option value="3">3 Years</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Borrowing</label>
+                                            <input type="text" class="form-control" placeholder="$10000">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>Term of use</label>
+                                            <input type="text" class="form-control" placeholder="6 month">
+                                        </div>
+                                        <div class="form-group">
+                                            <label>The total you will pay</label>
+                                            <input type="text" class="form-control" placeholder="$11200">
+                                        </div>
+                                        <div class="rate-btn">
+                                            <button type="submit" class="default-btn">
+                                                Apply for this loan
+                                                <span></span>
+                                            </button>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -377,50 +509,8 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="rate-form bg-fdebeb">
-                        <div class="rate-content">
-                            <span>Calculate your rate</span>
-                            <h3>How much do you need?</h3>
-                        </div>
-                        <div class="form">
-                            <div class="form-group">
-                                <label>Type The Money</label>
-                                <input type="text" class="form-control" placeholder="$1000">
-                            </div>
-                            <div class="form-group">
-                                <label>Select The Month/Years</label>
-                                <div class="select-box">
-                                    <select class="form-control">
-                                        <option value="5">1 month</option>
-                                        <option value="1">2 month</option>
-                                        <option value="2">3 month</option>
-                                        <option value="0">4 month</option>
-                                        <option value="3">6 month</option>
-                                        <option value="3">1 Year</option>
-                                        <option value="0">2 Years</option>
-                                        <option value="3">3 Years</option>
-                                    </select>
-                                </div>
-                            </div>
-                            <div class="form-group">
-                                <label>Borrowing</label>
-                                <input type="text" class="form-control" placeholder="$10000">
-                            </div>
-                            <div class="form-group">
-                                <label>Term of use</label>
-                                <input type="text" class="form-control" placeholder="6 month">
-                            </div>
-                            <div class="form-group">
-                                <label>The total you will pay</label>
-                                <input type="text" class="form-control" placeholder="$11200">
-                            </div>
-                            <div class="rate-btn">
-                                <button type="submit" class="default-btn">
-                                    Apply for this loan
-                                    <span></span>
-                                </button>
-                            </div>
-                        </div>
+                    <div class="company-wrap">
+                        <img src="assets/img/services-tab2.png" alt="image">
                     </div>
                 </div>
             </div>
