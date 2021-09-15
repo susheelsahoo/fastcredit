@@ -2,9 +2,9 @@
 <html lang="en">
 <?php
 $email = 'info@fastcreditdeal.com';
-$phone = '0120-4523131';
-$phone1 = '01204523131';
-$address = 'A- 81, 2nd Floor, Sector 4, Noida Pincode 201301';
+$phone = '011-46525062';
+$phone1 = '01146525062';
+$address = 'E-257, KRISHAN VIHAR, DELHI -110086';
 
 ?>
 
@@ -37,7 +37,7 @@ $address = 'A- 81, 2nd Floor, Sector 4, Noida Pincode 201301';
     <link rel="stylesheet" href="assets/css/style.css">
 
     <link rel="stylesheet" href="assets/css/responsive.css">
-    <title>Finix - Loans and Funding Agency HTML Template</title>
+    <title>Fast Credit Deal - Loans and Funding Agency In India</title>
     <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 
