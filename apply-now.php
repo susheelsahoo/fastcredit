@@ -183,7 +183,7 @@ body {
                 <img width="200" height="80" src="assets/img/bank/Axis-Bank.jpg" class="vc_single_image-img attachment-medium" alt="" loading="lazy">
             </div>
             <div class="col-lg-4"> 
-                <p>@11.00%</p>
+                <p>@10.30%</p>
             </div>
             <div class="col-lg-4"> 
                 <input type="radio" name="fav_language" value="indusind bank">
@@ -194,7 +194,7 @@ body {
                 <img width="200" height="80" src="assets/img/bank/Bajaj-Finserv.jpg" class="vc_single_image-img attachment-medium" alt="" loading="lazy">
             </div>
             <div class="col-lg-4"> 
-                <p>@11.00%</p>
+                <p>@10.50%</p>
             </div>
             <div class="col-lg-4"> 
                 <input type="radio" name="fav_language" value="indusind bank">
@@ -205,7 +205,7 @@ body {
                 <img width="200" height="80" src="assets/img/bank/HDFC-Bank.jpg" class="vc_single_image-img attachment-medium" alt="" loading="lazy">
             </div>
             <div class="col-lg-4"> 
-                <p>@11.00%</p>
+                <p>@09.50%</p>
             </div>
             <div class="col-lg-4"> 
                 <input type="radio" name="fav_language" value="indusind bank">
@@ -227,7 +227,7 @@ body {
                 <img width="200" height="80" src="assets/img/bank/IDFC-First-Bank.jpg" class="vc_single_image-img attachment-medium" alt="" loading="lazy">
             </div>
             <div class="col-lg-4"> 
-                <p>@11.00%</p>
+                <p>@11:25%</p>
             </div>
             <div class="col-lg-4"> 
                 <input type="radio" name="fav_language" value="indusind bank">
@@ -238,7 +238,7 @@ body {
                 <img width="200" height="80" src="assets/img/bank/IndusInd-Bank.jpg" class="vc_single_image-img attachment-medium" alt="" loading="lazy">
             </div>
             <div class="col-lg-4"> 
-                <p>@11.00%</p>
+                <p>@11:50%</p>
             </div>
             <div class="col-lg-4"> 
                 <input type="radio" name="fav_language" value="indusind bank">
@@ -249,7 +249,7 @@ body {
                 <img width="200" height="80" src="assets/img/bank/Kotak-Mahindra-Bank.jpg" class="vc_single_image-img attachment-medium" alt="" loading="lazy">
             </div>
             <div class="col-lg-4"> 
-                <p>@11.00%</p>
+                <p>@12.00%</p>
             </div>
             <div class="col-lg-4"> 
                 <input type="radio" name="fav_language" value="indusind bank">
@@ -260,7 +260,7 @@ body {
                 <img width="200" height="80" src="assets/img/bank/Tata-Capital.jpg" class="vc_single_image-img attachment-medium" alt="" loading="lazy">
             </div>
             <div class="col-lg-4"> 
-                <p>@11.00%</p>
+                <p>@12.00%</p>
             </div>
             <div class="col-lg-4"> 
                 <input type="radio" name="fav_language" value="indusind bank">
