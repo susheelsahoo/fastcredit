@@ -60,8 +60,8 @@
         width: 100%;
         box-sizing: border-box;
         font-family: montserrat;
-        color: #2C3E50;
-        font-size: 13px;
+        color: #17191b;
+        font-size: 15px;
     }
 
     /*buttons*/
@@ -166,9 +166,14 @@
         <fieldset>
             <h2 class="fs-title">Looking for a Loan?</h2>
             <h3 class="fs-subtitle">Let us help you find the most suitable offers.</h3>
-            <label class="float-left">Mobile Number</label>
-            <input type="number" name="number" placeholder="Will check offer against your number" />
-            <!-- <input type="checkbox" name="agree"/><span>I have read and agreed to the Terms of Use and hereby appoint Paisabazaar as my authorised representative to receive my credit information from Cibil/ Equifax/ Experian/ Highmark (bureau).</span> -->
+            <div class="row">
+                <div class="col-lg-4"></div>
+                <div class="col-lg-4">
+                    <label class="float-left">Mobile Number</label>
+                    <input type="number" name="number" placeholder="Will check offer against your number" />
+                </div>
+                <div class="col-lg-4"></div>
+            </div>
             <input type="button" name="next" class="next action-button" value="Proceed" />
         </fieldset>
         <fieldset>
@@ -183,7 +188,7 @@
                     <div class="select-box">
                         <label class="float-left">Your Employment Type</label>
                         <select name="employment_type_id" class="form-control">
-                            <option value="">------------------Please select------------------</option>
+                            <option value="">Please select</option>
                             <option value="Salaried">Salaried</option>
                             <option value="Self Employed - Business Owner">Self Employed - Business Owner</option>
                             <option value="Self Employed - Professional">Self Employed - Professional</option>
@@ -199,7 +204,7 @@
                 <div class="col-lg-4">
                     <label class="float-left">Your current city of residence</label>
                     <select class="form-control">
-                        <option value="">------------------Please select------------------</option>
+                        <option value="">Please select</option>
                         <option value="551">Delhi</option>
                         <option value="555">Gurgaon</option>
                         <option value="553">Noida</option>
@@ -1258,7 +1263,7 @@
                     <div class="select-box">
                         <label class="float-left">Salary Received In</label>
                         <select name="salary_mode" id="salary_mode" class="form-control">
-                            <option value="">------------------Please select------------------</option>
+                            <option value="">Please select</option>
                             <option class="cheque_cash_option show" value="9999">Cheque</option>
                             <option class="cheque_cash_option show" value="9998">Cash</option>
                             <option value="2">HDFC</option>
@@ -1344,7 +1349,105 @@
             <input type="button" name="next" class="next action-button" value="Next" />
         </fieldset>
         <fieldset>
-            <h2 class="fs-title">Best offer for you</h2>
+            
+        <h2 class="fs-title">Compare and Apply for Personal Loans</h2>
+            <h3 class="fs-subtitle">Let us help you find the most suitable offers.</h3>
+            <div class="row">
+                <div class="col-lg-4">
+                    <label class="float-left">Total EMI you pay currently</label>
+                    <input type="text" name="emi" placeholder="XXXXXXXXXXX" />
+                </div>
+                <div class="col-lg-4">
+                    <div class="select-box">
+                        <label class="float-left">Your Full Name </label>
+                        <input type="text" name="emi" placeholder="Enter Your Full Name" />
+                        <!--  -->
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <label class="float-left">Your PAN card number</label>
+                    <input type="text" name="pan_card" placeholder="Your PAN card number" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="select-box">
+                        <label class="float-left">Date of Birth</label>
+                        <input type="date" name="dob" placeholder="Date of Birth" />
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <label class="float-left">Email Address</label>
+                    <input type="email" name="email" placeholder="Email Address" />
+                </div>
+                <div class="col-lg-4">
+                    <label class="float-left">Your tenure in the current company</label>
+                    <select name="employment_type_id" class="form-control">
+                        <option value="">Please select</option>
+                        <option value="3">0-3 months</option>
+                        <option value="6">3-6 months</option>
+                        <option value="12">6-12 months</option>
+                        <option value="24">1-2 years</option>
+                        <option value="36">2-3 years</option>
+                        <option value="60">3-5 years</option>
+                        <option value="72">5+ years</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="select-box">
+                        <label class="float-left">Your total work experience</label>
+                        <select name="employment_type_id" class="form-control">
+                            <option value="">Please select</option>
+                            <option value="3">0-3 months</option>
+                            <option value="6">3-6 months</option>
+                            <option value="12">6-12 months</option>
+                            <option value="24">1-2 years</option>
+                            <option value="36">2-3 years</option>
+                            <option value="60">3-5 years</option>
+                            <option value="72">5+ years</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <label class="float-left"> Residence Type</label>
+                    <select name="employment_type_id" class="form-control">
+                        <option value="">Please select</option>
+                        <option value=""></option>
+                        <option value="1">Owned by self/spouse</option>
+                        <option value="2">Owned by parents/sibling</option>
+                        <option value="9">Rented- With family</option>
+                        <option value="10">Rented- With friends</option>
+                        <option value="11">Rented- Staying alone</option>
+                        <option value="5">Paying guest</option>
+                        <option value="12">Hostel</option>
+                        <option value="4">Company provided</option>
+                    </select>
+                </div>
+                <div class="col-lg-4">
+                    <label class="float-left">What is the purpose of your Loan</label>
+                    <select name="employment_type_id" class="form-control">
+                        <option value="">Please select</option>
+                        <option value="8">Purchase of household/electronic goods</option>
+                        <option value="5">Household expenses</option>
+                        <option value="3">Loan/Card Repayment</option>
+                        <option value="6">Education/related expenses</option>
+                        <option value="4">Home buying/renovation</option>
+                        <option value="2">Urgent Medical Expenses</option>
+                        <option value="7">Financial security</option>
+                        <option value="1">Travel/Relocation Related</option>
+                        <option value="9">Others</option>
+                    </select>
+                </div>
+            </div>
+            
+
+            <input type="button" name="previous" class="previous action-button" value="Previous" />
+            <input type="button" name="next" class="next action-button" value="Next" />
+        </fieldset>
+        <fieldset>
+        <h2 class="fs-title">Best offer for you</h2>
             <h3 class="fs-subtitle">Find the personal loan best suited for you.</h3>
             <div class="row">
                 <div class="col-lg-4">
@@ -1454,103 +1557,6 @@
                     <input type="radio" name="fav_language" value="indusind bank">
                 </div>
             </div>
-
-            <input type="button" name="previous" class="previous action-button" value="Previous" />
-            <input type="button" name="next" class="next action-button" value="Next" />
-        </fieldset>
-        <fieldset>
-            <h2 class="fs-title">Compare and Apply for Personal Loans</h2>
-            <h3 class="fs-subtitle">Let us help you find the most suitable offers.</h3>
-            <div class="row">
-                <div class="col-lg-4">
-                    <label class="float-left">Total EMI you pay currently</label>
-                    <input type="text" name="emi" placeholder="XXXXXXXXXXX" />
-                </div>
-                <div class="col-lg-4">
-                    <div class="select-box">
-                        <label class="float-left">Your Full Name </label>
-                        <input type="text" name="emi" placeholder="Enter Your Full Name" />
-                        <!--  -->
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <label class="float-left">Your PAN card number</label>
-                    <input type="text" name="pan_card" placeholder="Your PAN card number" />
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="select-box">
-                        <label class="float-left">Date of Birth</label>
-                        <input type="date" name="dob" placeholder="Date of Birth" />
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <label class="float-left">Email Address</label>
-                    <input type="email" name="email" placeholder="Email Address" />
-                </div>
-                <div class="col-lg-4">
-                    <label class="float-left">Your tenure in the current company</label>
-                    <select name="employment_type_id" class="form-control">
-                        <option value="">------------------Please select------------------</option>
-                        <option value="3">0-3 months</option>
-                        <option value="6">3-6 months</option>
-                        <option value="12">6-12 months</option>
-                        <option value="24">1-2 years</option>
-                        <option value="36">2-3 years</option>
-                        <option value="60">3-5 years</option>
-                        <option value="72">5+ years</option>
-                    </select>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="select-box">
-                        <label class="float-left">Your total work experience</label>
-                        <select name="employment_type_id" class="form-control">
-                            <option value="">------------------Please select------------------</option>
-                            <option value="3">0-3 months</option>
-                            <option value="6">3-6 months</option>
-                            <option value="12">6-12 months</option>
-                            <option value="24">1-2 years</option>
-                            <option value="36">2-3 years</option>
-                            <option value="60">3-5 years</option>
-                            <option value="72">5+ years</option>
-                        </select>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <label class="float-left"> Residence Type</label>
-                    <select name="employment_type_id" class="form-control">
-                        <option value="">------------------Please select------------------</option>
-                        <option value=""></option>
-                        <option value="1">Owned by self/spouse</option>
-                        <option value="2">Owned by parents/sibling</option>
-                        <option value="9">Rented- With family</option>
-                        <option value="10">Rented- With friends</option>
-                        <option value="11">Rented- Staying alone</option>
-                        <option value="5">Paying guest</option>
-                        <option value="12">Hostel</option>
-                        <option value="4">Company provided</option>
-                    </select>
-                </div>
-                <div class="col-lg-4">
-                    <label class="float-left">What is the purpose of your Loan</label>
-                    <select name="employment_type_id" class="form-control">
-                        <option value="">------------------Please select------------------</option>
-                        <option value="8">Purchase of household/electronic goods</option>
-                        <option value="5">Household expenses</option>
-                        <option value="3">Loan/Card Repayment</option>
-                        <option value="6">Education/related expenses</option>
-                        <option value="4">Home buying/renovation</option>
-                        <option value="2">Urgent Medical Expenses</option>
-                        <option value="7">Financial security</option>
-                        <option value="1">Travel/Relocation Related</option>
-                        <option value="9">Others</option>
-                    </select>
-                </div>
-            </div>
-            
             <input type="button" name="previous" class="previous action-button" value="Previous" />
             <input type="submit" name="submit" class="submit action-button" value="Submit" />
         </fieldset>

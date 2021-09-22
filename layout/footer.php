@@ -131,7 +131,7 @@
 
     <script src="assets/js/owl.carousel.min.js"></script>
 
-    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <!-- <script src="assets/js/jquery.nice-select.min.js"></script> -->
 
     <script src="assets/js/jquery.magnific-popup.min.js"></script>
 

@@ -30,7 +30,7 @@ $address = 'E-257, KRISHAN VIHAR, DELHI -110086';
 
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
 
-    <link rel="stylesheet" href="assets/css/nice-select.min.css">
+    <!-- <link rel="stylesheet" href="assets/css/nice-select.min.css"> -->
 
     <link rel="stylesheet" href="assets/css/odometer.min.css">
 
