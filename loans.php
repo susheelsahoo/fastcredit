@@ -6,7 +6,7 @@
                     <div class="page-title-content">
                         <h2>Loans</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>Loans</li>
                         </ul>
                     </div>
@@ -32,13 +32,11 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="loan-content">
-                        <h3>What is a finix loan?</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Quis ipsum
-                            suspendisse ultrices gravida</p>
+                        <h3>What is a Fast Credit Deal loan?</h3>
+                        <p>We encounter many challenges in our lives at different stages. While we face these challenges through personal efforts, financial help is something that we all look for. Personal loan is an unsecured loan given by financial institutions and banks which helps us to meet our personal occurrences.</p>
                         <ul class="list">
-                            <li>Unsecured loans of between $500 - $5,000</li>
-                            <li>Borrow over 1-5 years at a fixed interest rate of 6%</li>
+                            <li>Unsecured loans of between 50,000 - 50,00,000</li>
+                            <li>Borrow over 1-5 years at a fixed interest rate of 9%*</li>
                             <li>FREE mentoring for the first year of the loan</li>
                             <li>No minimum trading requirement.</li>
                         </ul>
@@ -58,7 +56,7 @@
                             </li>
                         </ul>
                         <div class="loan-btn">
-                            <a href="apply-now.html" class="default-btn">
+                            <a href="apply-now.php" class="default-btn">
                                 Apply now
                                 <span></span>
                             </a>
@@ -125,30 +123,26 @@
                         <h3>How do I apply for a loan</h3>
                         <div class="deserve-content">
                             <span>1</span>
-                            <h4>Apply in 10 minutes</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h4>Interest on Loan</h4>
+                            <p>Interest rate on car loan is an essential factor. Many banks are available in market that offers lucrative car loan interest rates. If you are looking for a good deal then it is must to research properly and choose the best for your yourself.</p>
                         </div>
                         <div class="deserve-content">
                             <span>2</span>
-                            <h4>Hear from us in 1 hour</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h4>Credit Score</h4>
+                            <p>One of the most important criteria is a good credit score. Good credit score reflects your credit history. If you do not have a good credit history then getting a loan becomes very difficult because eon the basis of that our loan is approved. It is must to have a good credit score. It should be at least 700 to match the requirement.</p>
                         </div>
                         <div class="deserve-content">
                             <span>3</span>
-                            <h4>A decision in 24 hours</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <h4>Processing Fee</h4>
+                            <p>Lenders who provide car loan charge processing fee as well. If they are giving you cheap car loan then in that they might have high processing fee. Either they charge fix processing fee or a percentage of the loan amount. So, you must always watch out this thing while taking a car loan.</p>
                         </div>
                         <div class="deserve-content">
                             <span>4</span>
                             <h4>Your loan is funded</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <p>Starting a new business can be a tedious task. Beginning from the concept till the capital investment is all what you invest your efforts in. Everything can be planned on paper till the time find out our investment source. Here, business loans help you give a kickstart to your business.</p>
                         </div>
                         <div class="deserve-btn">
-                            <a href="apply-now.html" class="default-btn">
+                            <a href="apply-now.php" class="default-btn">
                                 Apply now
                                 <span></span>
                             </a>
@@ -176,13 +170,11 @@
                 <div class="col-lg-5">
                     <div class="check-content">
                         <h3>Want to check your eligibility before you apply?</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                        <p>To qualify for a personal loan, you need to fulfill the eligibility. These include age, your employment type, your employment status, your net monthly income, your CIBIL score, repayment history, work experience, and the maximum EMI allowed as per your salary.</p>
                     </div>
                     <div class="check-text">
-                        <h3>Finix payment flexibility for your loan</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                        <h3>Payment flexibility for your loan</h3>
+                        <p>Fast Credit Deal such plan in which the loan is structured in a way that the EMI is higher during the initial years and subsequently decreases in the later years. Watch outs: Interest portion in EMI is as it is higher in the initial years.</p>
                         <ul class="list">
                             <li>Fill Loan Application Form</li>
                             <li>Choose your preferred monthly payment</li>
@@ -250,8 +242,8 @@
                                         <polyline points="1.5 6 4.5 9 10.5 1"></polyline>
                                     </svg>
                                 </span>
-                                <span>I have read and agree to Clearbanc’s <a href="privacy-policy.html">Privacy
-                                        Policy</a> and <a href="terms-condition.html">Terms of Service</a></span>
+                                <span>I have read and agree to Clearbanc’s <a href="privacy-policy.php">Privacy
+                                        Policy</a> and <a href="terms-condition.php">Terms of Service</a></span>
                             </label>
                         </div>
                     </div>

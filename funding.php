@@ -7,7 +7,7 @@
                     <div class="page-title-content">
                         <h2>Funding</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>Funding</li>
                         </ul>
                     </div>
@@ -29,8 +29,7 @@
                     <div class="funding-content">
                         <span>About funding</span>
                         <h3>A fast approach to business financing. Business funding made fast and simple.</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
+                        <p>Fast Credit Deal is partnered with tops banks to give you best loan facilities at attractive interest rates. We bridge the gap between you and our partner banks to provide you one stop solution for all your loan needs. Fast credit deal does not let you wander in search of banks. We let you compare and choose the best for yourself.</p>
                         <strong>We Reimagined Fundraising.</strong>
                         <ul class="funding-list">
                             <li>
@@ -39,7 +38,7 @@
                             </li>
                             <li>
                                 <span>(2)</span>
-                                <b>Flexible</b> Our data driven investments range from $1K to $1M
+                                <b>Flexible</b> Our data driven investments range from 1K to 1M+
                             </li>
                             <li>
                                 <span>(3)</span>
@@ -60,12 +59,11 @@
                     <div class="choose-title">
                         <span>Transparent process</span>
                         <h2>Why people choose us</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
+                        <p>To have a strong hold Also B2C segment.</p>
                     </div>
                     <div class="choose-image">
                         <img src="assets/img/choose.png" alt="image">
-                        <a href="https://www.youtube.com/watch?v=qaHWDmFtBl0" class="video-btn popup-youtube">
+                        <a href="https://www.youtube.com/watch?v=2_4l-EBNtl8" class="video-btn popup-youtube">
                             <i class="flaticon-play-button"></i>
                         </a>
                     </div>
@@ -78,8 +76,7 @@
                                     <i class="flaticon-guarantee"></i>
                                 </div>
                                 <h3>Guarantee</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt</p>
+                                <p>We target to be no. 1 DSA company in Delhi NCR, with the best business model for our stakeholders.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
@@ -88,8 +85,7 @@
                                     <i class="flaticon-speed"></i>
                                 </div>
                                 <h3>Speed</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt</p>
+                                <p>Fast Credits deal wishes to be the most promising Sales and Marketing company.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
@@ -98,8 +94,8 @@
                                     <i class="flaticon-reliability"></i>
                                 </div>
                                 <h3>Reliability</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt</p>
+                                
+                                <p>To serve, protect and promote the effectiveness of member companies and the individual entities they represent.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
@@ -108,8 +104,7 @@
                                     <i class="flaticon-user-experience"></i>
                                 </div>
                                 <h3>Experience</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt</p>
+                                <p>To ensure that the marketing by member companies of products and the direct sales opportunity is conducted with the highest level of business ethics and services to consumers in society.</p>
                             </div>
                         </div>
                     </div>
@@ -218,8 +213,8 @@
                                         <polyline points="1.5 6 4.5 9 10.5 1"></polyline>
                                     </svg>
                                 </span>
-                                <span>I have read and agree to Clearbanc’s <a href="privacy-policy.html">Privacy
-                                        Policy</a> and <a href="terms-condition.html">Terms of Service</a></span>
+                                <span>I have read and agree to Clearbanc’s <a href="privacy-policy.php">Privacy
+                                        Policy</a> and <a href="terms-condition.php">Terms of Service</a></span>
                             </label>
                         </div>
                     </div>

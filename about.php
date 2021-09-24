@@ -8,7 +8,7 @@
                     <div class="page-title-content">
                         <h2>About Us</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>About</li>
                         </ul>
                     </div>
@@ -33,27 +33,26 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="about-content">
-                        <span>About company</span>
-                        <h3>We have been working very efficiently with loan and funding for 25 years.</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                        <span>Welcome To Fast Credit.</span>
+                        <h3>We have been working very efficiently with loan and funding for 13 years.</h3>
+                        <p>We reformed this company with the name of Fast Credit in 2008. We are the great minds with innovative ideas who took this decision to bridge the gap between people and financial institutions</p>
                         <strong>In business, we focus on 3 things.</strong>
                         <ul class="about-list">
                             <li>
                                 <i class="flaticon-check"></i>
-                                Useful info
+                                Low Interest Rates
                             </li>
                             <li>
                                 <i class="flaticon-check"></i>
-                                Reliability
+                                Maximum Loan Amount
                             </li>
                             <li>
                                 <i class="flaticon-check"></i>
-                                Innovation
+                                Best Service
                             </li>
                         </ul>
                         <div class="about-btn">
-                            <a href="apply-now.html" class="default-btn">
+                            <a href="apply-now.php" class="default-btn">
                                 View more
                                 <span></span>
                             </a>
@@ -72,8 +71,7 @@
                     <div class="choose-title">
                         <span>Transparent process</span>
                         <h2>Why people choose us</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
+                        <p>To have a strong hold Also B2C segment.</p>
                     </div>
                     <div class="choose-image">
                         <img src="assets/img/choose.png" alt="image">
@@ -90,8 +88,7 @@
                                     <i class="flaticon-guarantee"></i>
                                 </div>
                                 <h3>Guarantee</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt</p>
+                                <p>We target to be no. 1 DSA company in Delhi NCR, with the best business model for our stakeholders.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
@@ -100,8 +97,7 @@
                                     <i class="flaticon-speed"></i>
                                 </div>
                                 <h3>Speed</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt</p>
+                                <p>Fast Credits deal wishes to be the most promising Sales and Marketing company.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
@@ -110,8 +106,8 @@
                                     <i class="flaticon-reliability"></i>
                                 </div>
                                 <h3>Reliability</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt</p>
+                                
+                                <p>To serve, protect and promote the effectiveness of member companies and the individual entities they represent.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">
@@ -120,8 +116,7 @@
                                     <i class="flaticon-user-experience"></i>
                                 </div>
                                 <h3>Experience</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt</p>
+                                <p>To ensure that the marketing by member companies of products and the direct sales opportunity is conducted with the highest level of business ethics and services to consumers in society.</p>
                             </div>
                         </div>
                     </div>
@@ -136,19 +131,17 @@
             <div class="section-title">
                 <span>Clients words</span>
                 <h2>What our clients say</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                    et dolore magna aliqua. </p>
+                <p>We are really thankful to Fast credit for our easy car loan process. We wish them lot of success. Executives have built a great relation and helped in each and every step. Thank you so much team! </p>
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-6">
                     <div class="clients-item">
                         <div class="info">
                             <img src="assets/img/clients/image1.png" alt="image">
-                            <h4>Markus Twain</h4>
-                            <span>Client</span>
+                            <h4>Salman Cowen</h4>
+                            <span>Founder</span>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                        <p>Thank you, Fast Credit for helping me in my Personal loan at the time I needed the most. It was really a simple and a quick process without any hassle. Kudos to you guys!</p>
                         <div class="icon">
                             <i class="flaticon-right-quote"></i>
                         </div>
@@ -158,11 +151,10 @@
                     <div class="clients-item">
                         <div class="info">
                             <img src="assets/img/clients/image2.png" alt="image">
-                            <h4>Jessica Molony</h4>
+                            <h4>Minashi Singal</h4>
                             <span>CEO</span>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                        <p>I am glad that I came in contact with your team for my loan against property. You guys made it so easy for me. The best part was I did not have to go anywhere for this process and everything was done in an ease. I am a happy customer.</p>
                         <div class="icon">
                             <i class="flaticon-right-quote"></i>
                         </div>
@@ -172,7 +164,7 @@
         </div>
     </section>
 
-
+<!-- 
     <div class="partner-area ptb-100">
         <div class="container">
             <div class="partner-slider owl-carousel owl-theme">
@@ -193,9 +185,9 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
-
+<!-- 
     <section class="team-area bg-color pt-100 pb-70">
         <div class="container">
             <div class="section-title">
@@ -339,7 +331,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 
     <section class="solution-area bg-top">

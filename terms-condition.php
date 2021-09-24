@@ -1,75 +1,95 @@
 <?php include('layout/header.php');?>
 
-    <div class="page-title-area item-bg-1">
-        <div class="d-table">
-            <div class="d-table-cell">
-                <div class="container">
-                    <div class="page-title-content">
-                        <h2>Terms & Conditions</h2>
-                        <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li>Terms & Conditions</li>
-                        </ul>
-                    </div>
+<div class="page-title-area item-bg-1">
+    <div class="d-table">
+        <div class="d-table-cell">
+            <div class="container">
+                <div class="page-title-content">
+                    <h2>Terms & Conditions</h2>
+                    <ul>
+                        <li><a href="index.php">Home</a></li>
+                        <li>Terms & Conditions</li>
+                    </ul>
                 </div>
             </div>
         </div>
     </div>
-
-
-    <section class="terms-of-condition-area ptb-100">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-md-12">
-                    <div class="terms-of-condition-content">
-                        <img src="assets/img/terms-service.jpg" alt="image">
-                        <h3>Welcome to Finix Terms & Conditions</h3>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book. It has survived not only five
-                            centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                        </p>
-                        <h3>Welcome to Finix Terms & Conditions</h3>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book. It has survived not only five
-                            centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                        </p>
-                        <h3>Welcome to Finix Terms & Conditions</h3>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book. It has survived not only five
-                            centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                        </p>
-                        <h3>Welcome to Finix Terms & Conditions</h3>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
-                            been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
-                            galley of type and scrambled it to make a type specimen book. It has survived not only five
-                            centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-12">
-                    <div class="terms-of-condition-sidebar">
-                        <ul>
-                            <li><a href="#">Agricultural Loan</a></li>
-                            <li><a href="#">Business Loan</a></li>
-                            <li><a href="#">House Loan</a></li>
-                            <li><a href="#">Personal Loan</a></li>
-                            <li><a href="#">Education Loan</a></li>
-                            <li><a href="#">Payday Loan</a></li>
-                            <li><a href="#">Vehicle loan</a></li>
-                            <li><a href="#">Medical loan</a></li>
-                            <li><a href="#">StartUp loan</a></li>
-                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                            <li class="active"><a href="#">Terms Condition</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+</div>
 
 
 
-    <?php include('layout/footer.php');?>
+<section class="terms-of-condition-area ptb-100">
+    <div class="container">
+        <h1>Website Terms and Conditions of Use</h1>
+
+        <h2>1. Terms</h2>
+
+        <p>By accessing this Website, accessible from https://www.fastcreditdeal.com/, you are agreeing to be bound by
+            these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any
+            applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site.
+            The materials contained in this Website are protected by copyright and trade mark law.</p>
+
+        <h2>2. Use License</h2>
+
+        <p>Permission is granted to temporarily download one copy of the materials on Fast Credit Deal's Website for
+            personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title,
+            and under this license you may not:</p>
+
+        <ul>
+            <li>modify or copy the materials;</li>
+            <li>use the materials for any commercial purpose or for any public display;</li>
+            <li>attempt to reverse engineer any software contained on Fast Credit Deal's Website;</li>
+            <li>remove any copyright or other proprietary notations from the materials; or</li>
+            <li>transferring the materials to another person or "mirror" the materials on any other server.</li>
+        </ul>
+
+        <p>This will let Fast Credit Deal to terminate upon violations of any of these restrictions. Upon termination,
+            your viewing right will also be terminated and you should destroy any downloaded materials in your
+            possession whether it is printed or electronic format. These Terms of Service has been created with the help
+            of the <a href="https://www.termsofservicegenerator.net">Terms Of Service Generator</a>.</p>
+
+        <h2>3. Disclaimer</h2>
+
+        <p>All the materials on Fast Credit Deal’s Website are provided "as is". Fast Credit Deal makes no warranties,
+            may it be expressed or implied, therefore negates all other warranties. Furthermore, Fast Credit Deal does
+            not make any representations concerning the accuracy or reliability of the use of the materials on its
+            Website or otherwise relating to such materials or any sites linked to this Website.</p>
+
+        <h2>4. Limitations</h2>
+
+        <p>Fast Credit Deal or its suppliers will not be hold accountable for any damages that will arise with the use
+            or inability to use the materials on Fast Credit Deal’s Website, even if Fast Credit Deal or an authorize
+            representative of this Website has been notified, orally or written, of the possibility of such damage. Some
+            jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental
+            damages, these limitations may not apply to you.</p>
+
+        <h2>5. Revisions and Errata</h2>
+
+        <p>The materials appearing on Fast Credit Deal’s Website may include technical, typographical, or photographic
+            errors. Fast Credit Deal will not promise that any of the materials in this Website are accurate, complete,
+            or current. Fast Credit Deal may change the materials contained on its Website at any time without notice.
+            Fast Credit Deal does not make any commitment to update the materials.</p>
+
+        <h2>6. Links</h2>
+
+        <p>Fast Credit Deal has not reviewed all of the sites linked to its Website and is not responsible for the
+            contents of any such linked site. The presence of any link does not imply endorsement by Fast Credit Deal of
+            the site. The use of any linked website is at the user’s own risk.</p>
+
+        <h2>7. Site Terms of Use Modifications</h2>
+
+        <p>Fast Credit Deal may revise these Terms of Use for its Website at any time without prior notice. By using
+            this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use.</p>
+
+        <h2>8. Your Privacy</h2>
+
+        <p>Please read our Privacy Policy.</p>
+
+        <h2>9. Governing Law</h2>
+
+        <p>Any claim related to Fast Credit Deal's Website shall be governed by the laws of in without regards to its
+            conflict of law provisions.</p>
+    </div>
+</section>
+
+<?php include('layout/footer.php');?>

@@ -5,10 +5,10 @@
             <div class="d-table-cell">
                 <div class="container">
                     <div class="page-title-content">
-                        <h2>Services Details</h2>
+                        <h2>Personal Loan</h2>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li>Services Details</li>
+                            <li><a href="index.php">Home</a></li>
+                            <li>Personal Loan</li>
                         </ul>
                     </div>
                 </div>
@@ -22,47 +22,30 @@
             <div class="row">
                 <div class="col-lg-4 col-md-12">
                     <aside class="widget-area" id="secondary">
-                        <section class="widget widget_search">
-                            <form class="search-form search-top">
-                                <label>
-                                    <span class="screen-reader-text">Search for:</span>
-                                    <input type="search" class="search-field" placeholder="Search Here">
-                                </label class="">
-                                <button type="submit">
-                                    <i class='bx bx-search-alt'></i>
-                                </button>
-                            </form>
-                        </section>
+                        
                         <section class="widget widget_categories">
                             <h3 class="widget-title">Categories</h3>
                             <ul>
-                                <li>
-                                    <a href="#">Agricultural loan</a>
-                                </li>
-                                <li>
-                                    <a href="#">Business loan</a>
-                                </li>
-                                <li>
-                                    <a href="#">House loan</a>
-                                </li>
-                                <li>
-                                    <a href="#">Personal loan</a>
-                                </li>
-                                <li>
-                                    <a href="#">Education loan</a>
-                                </li>
-                                <li>
-                                    <a href="#">Payday Loan</a>
-                                </li>
-                                <li>
-                                    <a href="#">Vehicle loan</a>
-                                </li>
-                                <li>
-                                    <a href="#">Medical loan</a>
-                                </li>
-                                <li>
-                                    <a href="#">StartUp loan</a>
-                                </li>
+                            <li class="nav-item">
+                                    <a href="home-loan.php" class="nav-link">
+                                        Home Loan
+                                    </a>
+                                </li>  
+                                <li class="nav-item">
+                                    <a href="personal-loan.php" class="nav-link">
+                                        Personal Loan
+                                    </a>
+                                </li>  
+                                <li class="nav-item">
+                                    <a href="business-loan.php" class="nav-link">
+                                        Business Loan
+                                    </a>
+                                </li>  
+                                <li class="nav-item">
+                                    <a href="car-loan.php" class="nav-link">
+                                        Car Loan
+                                    </a>
+                                </li> 
                             </ul>
                         </section>
                         <section class="widget widget_hours">
@@ -113,25 +96,18 @@
                 <div class="col-lg-8 col-md-12">
                     <div class="services-details-desc">
                         <div class="image">
-                            <img src="assets/img/services-details.jpg" alt="image">
+                            <img src="assets/img/personal-laon.jpg" alt="image">
                         </div>
                         <div class="content">
-                            <h3>About business loan and how does it work</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
-                                viverra maecenas accumsan lacus vel facilisis. At vero eos et accusam et justo duo
-                                dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
-                                dolor sit amet.</p>
-                            <p class="text">Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas
-                                accumsan lacus vel facilisis. At vero eos et accusam et justo duo dolores et ea rebum.
-                            </p>
+                            <h3>About personal loan and how does it work</h3>
+                            <p>Getting a personal loan is a good idea if you have a stable income and a good credit score because you will then be offered a low rate of interest. On the contrary, with an unstable job and a low credit score, the interest rate offered to you will be comparatively higher.</p>
+                            <p class="text">
+                            Personal loans are installment loans; if you're approved, you'll receive a lump sum of cash that you repay in fixed amounts on a monthly basis until the loan term expires. To determine whether you qualify for a personal loan, a lender will check your credit and income and gauge your ability to afford the loan.</p>
                         </div>
                         <div class="services-details-features">
                             <div class="content">
-                                <h3>Features of business loan</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                    gravida.</p>
+                                <h3>Features of personal loan</h3>
+                                <p>A personal loan allows you the freedom to use the money in any way you want. ... A personal loan is an 'unsecured loan', meaning you are not required to provide any security to the lender in the form of cash, shares or any other assets.</p>
                             </div>
                             <div class="row">
                                 <div class="col-lg-4 col-md-6">
@@ -161,42 +137,33 @@
                             </div>
                         </div>
                         <div class="services-details-others">
-                            <h3>You deserve a better business loan</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                            <h3>You deserve a better personal loan</h3>
+                            <p>Here are common reasons to take out a personal loan: Consolidate high-interest debt: Taking a personal loan is one way to consolidate high-interest debt, such as credit card debt, into a single payment. Ideally, the loan has a lower interest rate than your existing debt and allows you to pay it off faster.</p>
                         </div>
                         <div class="deserve-item">
-                            <h3>We usually follow 4 steps to get a better business loans.</h3>
+                            <h3>Why to Choose Us.</h3>
                             <div class="deserve-content">
                                 <span>1</span>
-                                <h4>Apply in 10 minutes</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                    gravida.</p>
+                                <h4>Low Interest Rates</h4>
+                                <p>Low interest rates: We have partnered with banks that provides attractive interest rates.</p>
                             </div>
                             <div class="deserve-content">
                                 <span>2</span>
-                                <h4>Hear from us in 1 hour</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                    gravida.</p>
+                                <h4>Maximum Tenure</h4>
+                                <p>Maximum tenure: You can avail maximum tenure at per banks discretion.</p>
                             </div>
                             <div class="deserve-content">
                                 <span>3</span>
-                                <h4>A decision in 24 hours</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                    gravida.</p>
+                                <h4>Maximum Loan Amount</h4>
+                                <p>Maximum loan amount: We try to provide maximum loan amount to match your needs.</p>
                             </div>
                             <div class="deserve-content">
                                 <span>4</span>
                                 <h4>Your loan is funded</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                    gravida.</p>
+                                <p>Your loan is funded with Best service: We assure incredible services from our end.</p>
                             </div>
                             <div class="deserve-btn">
-                                <a href="apply-now.html" class="default-btn">
+                                <a href="apply-now.php" class="default-btn">
                                     Apply now
                                     <span></span>
                                 </a>
@@ -211,15 +178,15 @@
                                 <ul class="list">
                                     <li>
                                         <i class="flaticon-check"></i>
-                                        You must be a Salaried Employee
+                                        Monthly income of ₹25,000 per month
                                     </li>
                                     <li>
                                         <i class="flaticon-check"></i>
-                                        Age: 20-50 years old
+                                        Age: 25-60 years old
                                     </li>
                                     <li>
                                         <i class="flaticon-check"></i>
-                                        Net Monthly Income must be more than $5000.
+                                        CIBIL: Required (750-900)
                                     </li>
                                     <li>
                                         <i class="flaticon-check"></i>

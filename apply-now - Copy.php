@@ -7,7 +7,7 @@
                 <div class="page-title-content">
                     <h2>Apply now</h2>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li>Apply now</li>
                     </ul>
                 </div>
