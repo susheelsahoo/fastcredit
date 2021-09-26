@@ -27,7 +27,7 @@ if(!empty($_POST["email"])) {
 		. "\r\n  email : " .$email  . "\r\n  experience : " .$experience  . "\r\n  Residence_type : " .$Residence_type  
 		. "\r\n  purpose_of_loan : " .$purpose_of_loan  . "\r\n  bank_name : " .$bank_name  . "\r\n  current_company_tenure : " .$current_comp  . " in Month ";
 	
-	$toEmail = "susheelcs24@gmail.com";
+	$toEmail = "info@fastcreditdeal.com";
 	//mail:info@fastcreditdeal.com
 	$mailHeaders = "From: " . $name . "<". $email .">\r\n";
 	if(mail($toEmail, 'Fast Credit Deal Query', $msg, $mailHeaders)) {

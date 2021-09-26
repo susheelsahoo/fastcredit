@@ -10,7 +10,7 @@ if(!empty($_POST["email"])) {
 
 	$msg  = "Name : ". $name  . "  phone : " .$phone  . "  subject : " .$subject  . "  message : " .$msg;
 	
-	$toEmail = "susheelcs24@gmail.com";
+	$toEmail = "info@fastcreditdeal.com";
 	$mailHeaders = "From: " . $name . "<". $email .">\r\n";
 	if(mail($toEmail, 'Fast Credit Deal Loan Query', $msg, $mailHeaders)) {
 	    $message = "Your information is received successfully.";
