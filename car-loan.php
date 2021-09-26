@@ -67,7 +67,7 @@
                         </section>
                         <section class="widget widget_appointment">
                             <h3 class="widget-title">Book an Appointment</h3>
-                            <form id="contactForm">
+                            <form action="sendcontactemail.php" method="post" id="contactForm">
                                 <div class="form-group">
                                     <input type="text" name="name" id="name" class="form-control" required
                                         data-error="Please enter your name" placeholder="Name">

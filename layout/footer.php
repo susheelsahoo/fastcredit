@@ -3,9 +3,9 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="single-footer-widget">
-                        <div class="logo">
+                        <div class="logo" style="width: 60%;">
                             <a href="#">
-                                <img src="assets/img/logo2.png" alt="image">
+                                <img src="assets/img/logo-footer.png" alt="fast credit deal">
                             </a>
                         </div>
                         <p>Attaining financial freedom means getting the power to achieve your envisioned financial goals and make decisions without any financial constraints.</p>
