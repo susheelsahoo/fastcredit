@@ -147,8 +147,7 @@
 
     <div class="map">
         <div class="container-fluid">
-            <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.57838282121!2d77.32272131440598!3d28.582420693099525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce456c9349565%3A0xac977c6238a3900!2sA%20Block!5e0!3m2!1sen!2sin!4v1630778803602!5m2!1sen!2sin" loading="lazy"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6998.893371622871!2d77.07710692274782!3d28.706193889781474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d06a18fd99255%3A0x82d87d985b01ba3d!2sKrishan%20Vihar%2C%20Delhi%2C%20110086!5e0!3m2!1sen!2sin!4v1632818440348!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
     </div>
 
