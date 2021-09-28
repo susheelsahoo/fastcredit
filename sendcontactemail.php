@@ -4,7 +4,7 @@
 if(!empty($_POST["email"])) {
 	$name 		= $_POST["name"];
 	$email 		= $_POST["email"];
-	$phone 		= $_POST["phone"];
+	$phone 		= $_POST["phone_number"];
 	$subject 	= $_POST["msg_subject"];
 	$msg 		= $_POST["message"];
 

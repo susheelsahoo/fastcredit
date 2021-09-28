@@ -158,7 +158,7 @@
     </section>
 
 
-    <section class="funding-form-area ptb-100">
+    <!-- <section class="funding-form-area ptb-100">
         <div class="container">
             <div class="section-title">
                 <span>Apply for funding</span>
@@ -227,7 +227,7 @@
                 </form>
             </div>
         </div>
-    </section>
+    </section> -->
 
 
 
