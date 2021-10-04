@@ -24,11 +24,11 @@
 
     /*form styles*/
     #msform {
-        width: 1400px;
-        margin: 50px auto;
-        text-align: center;
-        position: relative;
-        margin-top: -50px;
+       width: 100%;
+    margin: 50px auto;
+    text-align: center;
+    position: relative;
+    margin-top: -50px;
     }
 
     .f-color {
@@ -36,13 +36,10 @@
     }
 
     #msform fieldset {
-        color: #fff;
-        padding: 20px 30px;
-        width: 80%;
-        margin: 0 10%;
-
-        /*stacking fieldsets above each other*/
-        position: relative;
+    color: #fff;
+    padding: 20px 30px;
+    width: 100%;
+    position: relative;
     }
 
     /*Hide all except first fieldset*/
@@ -1577,7 +1574,7 @@
         </fieldset>
 
     </form>
-    </sction>
+    </section>
     <?php include('layout/footer.php');?>
 
     <script>
