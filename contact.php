@@ -8,7 +8,7 @@
                     <div class="page-title-content">
                     <?php if($_GET["type"]){?>
                         <div class="alert alert-<?php echo htmlspecialchars($_GET["type"]); ?>">
-                        <strong><?php echo htmlspecialchars($_GET["type"]); ?>!</strong> <?php echo htmlspecialchars($_GET["msg"]); ?>
+                        <strong><?php echo ucfirst(htmlspecialchars($_GET["type"])); ?>!</strong> <?php echo htmlspecialchars($_GET["msg"]); ?>
                         </div>
                    <?php }?>
                     
@@ -94,7 +94,7 @@
                 <div class="col-lg-4">
                     <div class="contact-side-box">
                         <div class="title">
-                            <h3>Contact Finix</h3>
+                            <h3>Contact Fast Credit Deal</h3>
                         </div>
                         <div class="info-box">
                             <div class="icon">

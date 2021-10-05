@@ -39,6 +39,10 @@ if(!empty($_POST["email"])) {
     }
    // echo $message;
     header('Location: contact.php?msg='.$message.'&type='.$type);
+}else{
+	$message = "Email id not found";
+	$type = "danger";
+	header('Location: contact.php?msg='.$message.'&type='.$type);
 }
 
 ?>
